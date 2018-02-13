@@ -1,0 +1,116 @@
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\bin\Debug\Interop.MSComCtl2.dll
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\bin\Debug\AxInterop.MSComCtl2.dll
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Interop.MSComCtl2.dll
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\AxInterop.MSComCtl2.dll
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.ResolveComReference.cache
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.HelpForm.resources
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Interop.MSComCtl2.dll
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\AxInterop.MSComCtl2.dll
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.ResolveComReference.cache
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\bin\Debug\Interop.MSComCtl2.dll
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\bin\Debug\AxInterop.MSComCtl2.dll
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.HelpForm.resources
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Interop.MSComCtl2.dll
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\AxInterop.MSComCtl2.dll
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.ResolveComReference.cache
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Interop.MSComCtl2.dll
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\AxInterop.MSComCtl2.dll
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.ResolveComReference.cache
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\bin\Debug\Interop.MSComCtl2.dll
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\bin\Debug\AxInterop.MSComCtl2.dll
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.HelpForm.resources
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Interop.MSComCtl2.dll
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\AxInterop.MSComCtl2.dll
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.ResolveComReference.cache
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\bin\Debug\Interop.MSComCtl2.dll
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\bin\Debug\AxInterop.MSComCtl2.dll
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.HelpForm.resources
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+J:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.EndGameForm.resources
+G:\School\Yr 11\Software Design & Development\Projects\Yahtzee 1.0\Yahtzee\Yahtzee\obj\Debug\Yahtzee.EndGameForm.resources
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Interop.MSComCtl2.dll
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\AxInterop.MSComCtl2.dll
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.ResolveComReference.cache
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\Interop.MSComCtl2.dll
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\AxInterop.MSComCtl2.dll
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.EndGameForm.resources
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.HelpForm.resources
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+G:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Interop.MSComCtl2.dll
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\AxInterop.MSComCtl2.dll
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.ResolveComReference.cache
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\Interop.MSComCtl2.dll
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\AxInterop.MSComCtl2.dll
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.EndGameForm.resources
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.HelpForm.resources
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+J:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\Interop.MSComCtl2.dll
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\bin\Debug\AxInterop.MSComCtl2.dll
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Interop.MSComCtl2.dll
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\AxInterop.MSComCtl2.dll
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.ResolveComReference.cache
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.EndGameForm.resources
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.HelpForm.resources
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+K:\School\Yr 11\Software Design & Development\Projects\JACK_BONWICK_SPACE_YAHTZEE\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb

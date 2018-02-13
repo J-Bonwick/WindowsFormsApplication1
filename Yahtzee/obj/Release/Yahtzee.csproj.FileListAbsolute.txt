@@ -1,0 +1,4 @@
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\bin\Release\Yahtzee.exe.config
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Release\Interop.MSComCtl2.dll
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Release\AxInterop.MSComCtl2.dll
+I:\School\Yr 11\Software Design & Development\Projects\Yahtzee\Yahtzee\obj\Release\Yahtzee.csproj.ResolveComReference.cache
